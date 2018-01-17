@@ -26,9 +26,8 @@ describe 'navigate' do
 
       fill_in 'post[date]', with: Date.today
       fill_in 'post[rationale]', with: "This is a rationale"
-
       click_on 'Save'
-
+      
       expect(page).to have_content("This is a rationale")
     end
   end
