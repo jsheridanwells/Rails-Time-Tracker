@@ -1,24 +1,21 @@
-# README
+# Rails Time Tracker
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app is from a codealong available at Udemy.
 
-Things you may want to cover:
+[Here's the source code.](https://github.com/jordanhudgens/overtime-app)
 
-* Ruby version
+This tutorial explains:
 
-* System dependencies
+ * TDD with RSpec and Capybara
+ * Using the Twilio API
+ * Postgresql
+ * Devise
 
-* Configuration
 
-* Database creation
+## Author
 
-* Database initialization
+  Jeremy Sheridan Wells
 
-* How to run the test suite
+  [Github: jsheridanwells](http://www.github.com/jsheridanwells)
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+  [Twitter: @jsheridanwells](http://twitter.com/jsheridanwells)
